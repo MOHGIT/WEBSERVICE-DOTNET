@@ -1,0 +1,5 @@
+c:\users\humanbooster\documents\visual studio 2012\Projects\Console\Console\bin\Debug\Console.exe.config
+c:\users\humanbooster\documents\visual studio 2012\Projects\Console\Console\bin\Debug\Console.exe
+c:\users\humanbooster\documents\visual studio 2012\Projects\Console\Console\bin\Debug\Console.pdb
+c:\users\humanbooster\documents\visual studio 2012\Projects\Console\Console\obj\Debug\Console.exe
+c:\users\humanbooster\documents\visual studio 2012\Projects\Console\Console\obj\Debug\Console.pdb
